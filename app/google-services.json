@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970601693364",
+    "firebase_url": "https://insurance-e6903.firebaseio.com",
+    "project_id": "insurance-e6903",
+    "storage_bucket": "insurance-e6903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970601693364:android:82dfffdf1acb7f254057e1",
+        "android_client_info": {
+          "package_name": "com.example.insurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970601693364-2397bnpjsmmvv9tf2qoinbdu8ml64sfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK08669OtEJ2t4iTulG6weXN6G8zgi0aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970601693364-2397bnpjsmmvv9tf2qoinbdu8ml64sfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
